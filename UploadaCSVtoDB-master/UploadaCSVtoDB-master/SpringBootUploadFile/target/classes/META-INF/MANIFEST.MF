@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: DELL
+Build-Jdk: 9.0.1
+Implementation-Title: SpringBootUploadFile
+Implementation-Version: 0.0.1
+Implementation-Vendor-Id: com.javasampleapproach.uploadfile
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/SpringBootUp
+ loadFile/
+Created-By: Maven Integration for Eclipse
+
